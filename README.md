@@ -31,7 +31,7 @@ JuzMate adalah aplikasi Android yang membantu Anda menghafal Al-Qur'an dengan me
 
 ## 📄 Privacy Policy
 
-Kebijakan privasi dapat dibaca di: [Privacy Policy](https://raw.githubusercontent.com/juzmatedev/privacy-policy/main/index.html)
+Kebijakan privasi dapat dibaca di: [Privacy Policy](https://juzmatedev.github.io/privacy-policy)
 
 ## 📧 Kontak
 
